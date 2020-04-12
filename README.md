@@ -8,7 +8,7 @@ You can download the dataset used from [here](http://www.cs.cornell.edu/people/p
 
 ## Getting Started
 
-#### The repo contains the following files
+#### The 'src' directory contains the following files
 
 * datapreprocess.py - contains all the functions for the processing of the dataset.
 * models.py - contains the deep CNN model.
