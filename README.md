@@ -1,6 +1,6 @@
-# Film_review_predictor
+# 🎥 Film_review_predictor
 
-##  Description
+## 📘 Description
 
 A film review predictor that was build based on my study on Deep Convolutional Neural Network for Sentiment Analysis (Text Classification) from [here](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/).
 
@@ -8,7 +8,7 @@ The dataset used is the Movie review Data which is a collection of movie reviews
 
 You can download the dataset used from [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz)
 
-## Getting Started
+## 🏃‍♂️ Getting Started
 
 #### The 'src' directory contains the following files
 
