@@ -4,6 +4,8 @@ A film review predictor that was build based on my study on Deep Convolutional N
 
 The dataset used is the Movie review Data which is a collection of movie reviews retrieved from the imdb.com website in the early 2000s by Bo Pang and Lillian Lee. The reviews were collected and made available as part of their research on natural language processing. The reviews were originally released in 2002, but an updated and cleaned up version were released in 2004, referred to as “v2.0”.
 
+You can download the dataset used from [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz)
+
 ## Getting Started
 
 #### The repo contains the following files
@@ -21,6 +23,9 @@ Clone the Repository:
 Then move to the working directory.
 
 ```cd Film_review_predictor```
+
+Then download the dataset from [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz).Move the file txt_sentokens to the src directory.
+
 
 To install all the dependencies, run:
 
