@@ -24,7 +24,7 @@ Then move to the working directory.
 
 ```cd Film_review_predictor```
 
-Then download the dataset from [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz).Move the file txt_sentokens to the src directory.
+Then download the dataset from [here](http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz). Move the file txt_sentokens to the src directory.
 
 
 To install all the dependencies, run:
