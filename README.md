@@ -41,7 +41,7 @@ Then run the ```predict.py```.This will ask the user to input the review and giv
 
 ## Built With ❤️ 
 
-* [Python3.6](https://docs.python.org/3.6/) - ⚠️️ Warning : Tensorflow is not supported on any version of python above 3.6 as of now.
+* [Python3.6](https://docs.python.org/3.6/) - ⚠️️ Warning : Tensorflow is not supported on any version of python above 3.6 as of now.(April 12 2020)
 * [Tensorflow](https://www.tensorflow.org/api_docs) - The deep learning platform used
 * [NLTK](https://www.nltk.org/) - The Natural Language ToolKit used to process the data
 
