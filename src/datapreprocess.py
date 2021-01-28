@@ -85,12 +85,3 @@ def process_docs(directory, vocab, is_trian,documents=None):
             return None
         else:
             return documents
-
-
-
-
-
-        
-
-       
-
